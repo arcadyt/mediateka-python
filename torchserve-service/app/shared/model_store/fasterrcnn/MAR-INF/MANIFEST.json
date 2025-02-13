@@ -1,0 +1,12 @@
+{
+  "createdOn": "26/01/2025 21:22:36",
+  "runtime": "python",
+  "model": {
+    "modelName": "fasterrcnn",
+    "serializedFile": "fasterrcnn_resnet50_fpn_v2_coco-dd69338a.pth",
+    "handler": "model_handler_runtime.py",
+    "modelVersion": "1.0",
+    "requirementsFile": "requirements.txt"
+  },
+  "archiverVersion": "0.12.0"
+}

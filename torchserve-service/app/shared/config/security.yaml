@@ -1,0 +1,7 @@
+auth:
+  type: basic
+  users:
+    - username: worker
+      password: kolkhoz_strength
+      roles:
+        - admin
